@@ -13,7 +13,7 @@ Hackintosh d'une MSI MPG Z490 GAMING PLUS avec une AMD RX 6800XT basé sur OpenC
 | Carte mère | MSI MPG Z490 GAMING PLUS               |
 | CPU | Intel i7-10700K               |
 | GPU          | AMD RX 6800XT            |
-| Audio          | Realtek ALC1200 (ALCID=11)            |
+| Audio          | Realtek ALCS1200A (ALCID=11)            |
 
 ## 🍎 Comment fonctionne un hackintosh ?
 
