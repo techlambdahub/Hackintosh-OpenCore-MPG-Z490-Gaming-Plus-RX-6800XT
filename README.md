@@ -1,4 +1,4 @@
-# Hackintosh-OpenCore-Z490-Gaming-Plus-RX-6800XT
+# Hackintosh-OpenCore-MPG-Z490-Gaming-Plus-RX-6800XT
 Hackintosh d'une MSI MPG Z490 GAMING PLUS avec une AMD RX 6800XT basé sur OpenCore 0.9.3
 
 <img src="/screenshot.png"/>
